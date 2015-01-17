@@ -1,0 +1,17 @@
+{
+  "name": "discoverable-node",
+  "version": "1.0.0",
+  "description": "Discoverable node is a light weight UDP based library that can find other nodes on a network.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Sitebase/discoverable-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+
+}
